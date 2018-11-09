@@ -1,0 +1,21 @@
+﻿빌드 시작: 2018-11-09 오전 10:09:17
+2 노드의 "C:\Users\feng9\documents\visual studio 2013\Projects\Socket_Client\Socket_Client\Socket_Client.vcxproj" 프로젝트(Build 대상)입니다.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Socket_Client.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConectSocket.cpp Socket_Client.cpp Socket_ClientDlg.cpp
+  Socket_ClientDlg.cpp
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  Socket_Client.cpp
+  ConectSocket.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\feng9\documents\visual studio 2013\Projects\Socket_Client\Debug\Socket_Client.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\feng9\documents\visual studio 2013\Projects\Socket_Client\Debug\Socket_Client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\feng9\documents\visual studio 2013\Projects\Socket_Client\Debug\Socket_Client.lib" /MACHINE:X86 Debug\Socket_Client.res
+  Debug\ConectSocket.obj
+  Debug\Socket_Client.obj
+  Debug\Socket_ClientDlg.obj
+  Debug\stdafx.obj
+  Socket_Client.vcxproj -> C:\Users\feng9\documents\visual studio 2013\Projects\Socket_Client\Debug\Socket_Client.exe
+"C:\Users\feng9\documents\visual studio 2013\Projects\Socket_Client\Socket_Client\Socket_Client.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:16.97
